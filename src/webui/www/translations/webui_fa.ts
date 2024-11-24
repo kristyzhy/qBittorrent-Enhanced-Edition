@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Remove torrents</source>
-        <translation type="unfinished" />
+        <translation>حذف تورنت‌‌ها</translation>
     </message>
     <message>
         <source>Add subcategory...</source>
@@ -621,7 +621,7 @@
     </message>
     <message>
         <source>Log</source>
-        <translation type="unfinished" />
+        <translation>گزارش</translation>
     </message>
 </context>
 <context>
@@ -656,7 +656,7 @@
     </message>
     <message>
         <source>User Interface Language:</source>
-        <translation type="unfinished" />
+        <translation>زبان رابط کاربری:</translation>
     </message>
     <message>
         <source>Email notification upon download completion</source>
@@ -692,7 +692,7 @@
     </message>
     <message>
         <source>Use HTTPS instead of HTTP</source>
-        <translation type="unfinished" />
+        <translation>از HTTPS به‌جای HTTP استفاده شود</translation>
     </message>
     <message>
         <source>Bypass authentication for clients on localhost</source>
@@ -1010,7 +1010,7 @@
     </message>
     <message>
         <source>KiB/s</source>
-        <translation type="unfinished" />
+        <translation>کیلوبایت/ثانیه</translation>
     </message>
     <message>
         <source>Enable clickjacking protection</source>
@@ -1046,7 +1046,7 @@
     </message>
     <message>
         <source>Default Save Path:</source>
-        <translation type="unfinished" />
+        <translation>مکان ذخیره‌سازی پیش‌فرض:</translation>
     </message>
     <message>
         <source>The alternative Web UI files location cannot be blank.</source>
@@ -1122,7 +1122,7 @@
     </message>
     <message>
         <source>When adding a torrent</source>
-        <translation type="unfinished" />
+        <translation>هنگام افزودن تورنت جدید</translation>
     </message>
     <message>
         <source>Info: The password is saved unencrypted</source>
@@ -1318,7 +1318,7 @@
     </message>
     <message>
         <source>Add custom HTTP headers</source>
-        <translation type="unfinished" />
+        <translation>افزودن هدرهای HTTP سفارشی</translation>
     </message>
     <message>
         <source>Filters:</source>
@@ -1342,7 +1342,7 @@
     </message>
     <message>
         <source>Network interface:</source>
-        <translation type="unfinished" />
+        <translation>رابط شبکه:</translation>
     </message>
     <message>
         <source>RSS Reader</source>
@@ -1530,7 +1530,7 @@
     </message>
     <message>
         <source>ms</source>
-        <translation type="unfinished" />
+        <translation>میلی‌ثانیه</translation>
     </message>
     <message>
         <source>Excluded file names</source>
@@ -2172,7 +2172,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     <name>SpeedLimitDialog</name>
     <message>
         <source>KiB/s</source>
-        <translation type="unfinished" />
+        <translation>کیلوبایت/ثانیه</translation>
     </message>
 </context>
 <context>
@@ -3140,7 +3140,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>out of</source>
-        <translation type="unfinished" />
+        <translation>از</translation>
     </message>
     <message>
         <source>Everywhere</source>
@@ -3160,11 +3160,11 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Results</source>
-        <translation type="unfinished" />
+        <translation>نتایج</translation>
     </message>
     <message>
         <source>showing</source>
-        <translation type="unfinished" />
+        <translation>درحال نمایش</translation>
     </message>
     <message>
         <source>Click the "Search plugins..." button at the bottom right of the window to install some.</source>
@@ -3323,7 +3323,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Remove torrents</source>
-        <translation type="unfinished" />
+        <translation>حذف تورنت‌‌ها</translation>
     </message>
 </context>
 <context>
@@ -3844,7 +3844,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>Remove torrents</source>
-        <translation type="unfinished" />
+        <translation>حذف تورنت‌‌ها</translation>
     </message>
 </context>
 <context>
@@ -3878,7 +3878,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>showing</source>
-        <translation type="unfinished" />
+        <translation>درحال نمایش</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3922,7 +3922,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>out of</source>
-        <translation type="unfinished" />
+        <translation>از</translation>
     </message>
     <message>
         <source>Status</source>
@@ -3946,11 +3946,11 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished" />
+        <translation>دلیل</translation>
     </message>
     <message>
         <source>item</source>
-        <translation type="unfinished" />
+        <translation>مورد</translation>
     </message>
     <message>
         <source>IP</source>
@@ -3958,7 +3958,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>Banned</source>
-        <translation type="unfinished" />
+        <translation>بن شده</translation>
     </message>
     <message>
         <source>Normal Messages</source>
@@ -3966,11 +3966,11 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>Critical</source>
-        <translation type="unfinished" />
+        <translation>بحرانی</translation>
     </message>
     <message>
         <source>Critical Messages</source>
-        <translation type="unfinished" />
+        <translation>پیام‌های بحرانی</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -3978,15 +3978,15 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>items</source>
-        <translation type="unfinished" />
+        <translation>مورد</translation>
     </message>
     <message>
         <source>Results</source>
-        <translation type="unfinished" />
+        <translation>نتایج</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished" />
+        <translation>اطلاع</translation>
     </message>
     <message>
         <source>Choose a log level...</source>

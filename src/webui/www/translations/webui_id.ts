@@ -1482,7 +1482,7 @@
     </message>
     <message>
         <source>Memory mapped files</source>
-        <translation type="unfinished" />
+        <translation>Berkas yang dipetakan pada memori</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1490,7 +1490,7 @@
     </message>
     <message>
         <source>POSIX-compliant</source>
-        <translation type="unfinished" />
+        <translation>POSIX-compliant</translation>
     </message>
     <message>
         <source>This option is less effective on Linux</source>

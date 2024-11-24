@@ -1242,7 +1242,7 @@
     </message>
     <message>
         <source>Peer proportional (throttles TCP)</source>
-        <translation type="unfinished" />
+        <translation>Soležniki sorazmerno (duši TCP)</translation>
     </message>
     <message>
         <source>Fixed slots</source>
@@ -1482,7 +1482,7 @@
     </message>
     <message>
         <source>Memory mapped files</source>
-        <translation type="unfinished" />
+        <translation>Datoteke, preslikane v pomnilnik</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1498,7 +1498,7 @@
     </message>
     <message>
         <source>It controls the internal state update interval which in turn will affect UI updates</source>
-        <translation type="unfinished" />
+        <translation>Nadzira interni interval posodobitve stanja, kar bo vplivalo na posodobitve uporabniškega vmesnika</translation>
     </message>
     <message>
         <source>Disk IO read mode:</source>
@@ -1614,7 +1614,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
     </message>
     <message>
         <source>Fastresume files</source>
-        <translation type="unfinished" />
+        <translation>Hitro nadaljevanje datotek</translation>
     </message>
     <message>
         <source>Backup the log file after:</source>
@@ -2958,11 +2958,11 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
     </message>
     <message>
         <source>total minutes</source>
-        <translation type="unfinished" />
+        <translation>skupno minut</translation>
     </message>
     <message>
         <source>inactive minutes</source>
-        <translation type="unfinished" />
+        <translation>nedejavnih minut</translation>
     </message>
 </context>
 <context>

@@ -357,11 +357,11 @@
     </message>
     <message>
         <source>Register to handle magnet links...</source>
-        <translation type="unfinished" />
+        <translation>Прызначыць апрацоўшчыкам magnet-спасылак...</translation>
     </message>
     <message>
         <source>Unable to add peers. Please ensure you are adhering to the IP:port format.</source>
-        <translation type="unfinished" />
+        <translation>Не ўдаецца дадаць піроў. Прытрымлівайцеся фармату IP:port.</translation>
     </message>
     <message>
         <source>JavaScript Required! You must enable JavaScript for the Web UI to work properly</source>
@@ -1142,7 +1142,7 @@
     </message>
     <message>
         <source>Socket backlog size:</source>
-        <translation type="unfinished" />
+        <translation>Памер чаргі сокета:</translation>
     </message>
     <message>
         <source>Enable super seeding for torrent</source>
@@ -1154,7 +1154,7 @@
     </message>
     <message>
         <source>Outstanding memory when checking torrents:</source>
-        <translation type="unfinished" />
+        <translation>Накладная памяць пры праверцы торэнтаў:</translation>
     </message>
     <message>
         <source>Anti-leech</source>
@@ -1202,7 +1202,7 @@
     </message>
     <message>
         <source>Send buffer watermark factor:</source>
-        <translation type="unfinished" />
+        <translation>Фактар пазнакі буфера адпраўкі:</translation>
     </message>
     <message>
         <source>libtorrent Section</source>
@@ -1238,7 +1238,7 @@
     </message>
     <message>
         <source>Send buffer watermark:</source>
-        <translation type="unfinished" />
+        <translation>Пазнака буфера адпраўкі:</translation>
     </message>
     <message>
         <source>Peer proportional (throttles TCP)</source>
@@ -1282,11 +1282,11 @@
     </message>
     <message>
         <source>Send buffer low watermark:</source>
-        <translation type="unfinished" />
+        <translation>Ніжняя пазнака буферу адпраўкі:</translation>
     </message>
     <message>
         <source>Save resume data interval:</source>
-        <translation type="unfinished" />
+        <translation>Інтэрвал запісу даных аднаўлення:</translation>
     </message>
     <message>
         <source>Always announce to all trackers in a tier:</source>
@@ -1330,7 +1330,7 @@
     </message>
     <message>
         <source>Peer turnover threshold percentage:</source>
-        <translation type="unfinished" />
+        <translation>Адсотак абмежавання бягучасці піроў:</translation>
     </message>
     <message>
         <source>RSS Torrent Auto Downloader</source>
@@ -1362,7 +1362,7 @@
     </message>
     <message>
         <source>Peer turnover disconnect percentage:</source>
-        <translation type="unfinished" />
+        <translation>Адсотак абмежавання бягучасці піроў</translation>
     </message>
     <message>
         <source>Maximum number of articles per feed:</source>
@@ -1374,11 +1374,11 @@
     </message>
     <message>
         <source>Peer turnover disconnect interval:</source>
-        <translation type="unfinished" />
+        <translation>Інтэрвал адключэння бягучасці піроў:</translation>
     </message>
     <message>
         <source>Optional IP address to bind to:</source>
-        <translation type="unfinished" />
+        <translation>Неабавязковы IP-адрас для прывязкі:</translation>
     </message>
     <message>
         <source>Disallow connection to peers on privileged ports:</source>
@@ -1430,11 +1430,11 @@
     </message>
     <message>
         <source>%K: Torrent ID</source>
-        <translation type="unfinished" />
+        <translation>%K: Ідэнтыфікатар торэнта</translation>
     </message>
     <message>
         <source>Reannounce to all trackers when IP or port changed:</source>
-        <translation type="unfinished" />
+        <translation>Паўтараць анонс на ўсе трэкеры пры змене IP/порта:</translation>
     </message>
     <message>
         <source>Trusted proxies list:</source>
@@ -1462,7 +1462,7 @@
     </message>
     <message>
         <source>Server-side request forgery (SSRF) mitigation:</source>
-        <translation type="unfinished" />
+        <translation>Папярэджваць серверную падробку запыту (SSRF):</translation>
     </message>
     <message>
         <source>Disk queue size:</source>
@@ -1474,11 +1474,11 @@
     </message>
     <message>
         <source>Maximum outstanding requests to a single peer:</source>
-        <translation type="unfinished" />
+        <translation>Максімум нявырашаных запытаў да аднаго піра:</translation>
     </message>
     <message>
         <source>Max active checking torrents:</source>
-        <translation type="unfinished" />
+        <translation>Абмежаванне актыўных праверак торэнтаў:</translation>
     </message>
     <message>
         <source>Memory mapped files</source>
@@ -1518,7 +1518,7 @@
     </message>
     <message>
         <source>Max concurrent HTTP announces:</source>
-        <translation type="unfinished" />
+        <translation>Максімум адначасовых анонсаў HTTP:</translation>
     </message>
     <message>
         <source>Enable OS cache</source>
@@ -1582,7 +1582,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Enable port forwarding for embedded tracker:</source>
-        <translation type="unfinished" />
+        <translation>Уключыць пракід партоў для ўбудаванага трэкера:</translation>
     </message>
     <message>
         <source>If checked, hostname lookups are done via the proxy.</source>
@@ -1666,7 +1666,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Disk cache expiry interval (requires libtorrent &amp;lt; 2.0):</source>
-        <translation type="unfinished" />
+        <translation>Інтэрвал ачысткі дыскавага кэшу (патрабуе libtorrent &amp;lt; 2.0):</translation>
     </message>
     <message>
         <source>Physical memory (RAM) usage limit (applied if libtorrent &amp;gt;= 2.0):</source>
@@ -1678,19 +1678,19 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Socket send buffer size [0: system default]:</source>
-        <translation type="unfinished" />
+        <translation>Памер буферу адпраўкі сокета [0: сістэмны]:</translation>
     </message>
     <message>
         <source>Coalesce reads &amp;amp; writes (requires libtorrent &amp;lt; 2.0):</source>
-        <translation type="unfinished" />
+        <translation>Узбуйненне чытання і запісу (патрабуе libtorrent &amp;lt; 2.0):</translation>
     </message>
     <message>
         <source>Outgoing ports (Max) [0: disabled]:</source>
-        <translation type="unfinished" />
+        <translation>Максімум выходных партоў [0: адкл.]:</translation>
     </message>
     <message>
         <source>Socket receive buffer size [0: system default]:</source>
-        <translation type="unfinished" />
+        <translation>Памер буферу атрымання сокета [0: сістэмны]:</translation>
     </message>
     <message>
         <source>Use Subcategories</source>
@@ -1706,27 +1706,27 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Write-through (requires libtorrent &amp;gt;= 2.0.6)</source>
-        <translation type="unfinished" />
+        <translation>Скразны запіс (патрабуе ibtorrent &amp;gt;= 2.0.6)</translation>
     </message>
     <message>
         <source>Stop tracker timeout [0: disabled]:</source>
-        <translation type="unfinished" />
+        <translation>Тайм-аўт спынення трэкера [0: адкл.]:</translation>
     </message>
     <message>
         <source>Outgoing ports (Min) [0: disabled]:</source>
-        <translation type="unfinished" />
+        <translation>Мінімум выходных партоў [0: адкл.]:</translation>
     </message>
     <message>
         <source>Hashing threads (requires libtorrent &amp;gt;= 2.0):</source>
-        <translation type="unfinished" />
+        <translation>Патокі хэшавання (патрабуе libtorrent &amp;gt;= 2.0):</translation>
     </message>
     <message>
         <source>UPnP lease duration [0: permanent lease]:</source>
-        <translation type="unfinished" />
+        <translation>Тэрмін арэнлы UPnP [0: пастаянны]:</translation>
     </message>
     <message>
         <source>Bdecode token limit:</source>
-        <translation type="unfinished" />
+        <translation>Абмежаванне токенаў разбору даных Bdecode:</translation>
     </message>
     <message>
         <source>When inactive seeding time reaches</source>
@@ -1738,7 +1738,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Bdecode depth limit:</source>
-        <translation type="unfinished" />
+        <translation>Абмежаванне глыбіні разбору даных Bdecode:</translation>
     </message>
     <message>
         <source>.torrent file size limit:</source>
@@ -1750,7 +1750,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Perform hostname lookup via proxy</source>
-        <translation type="unfinished" />
+        <translation>Выконваць пошук назвы хоста праз проксі</translation>
     </message>
     <message>
         <source>Mixed mode</source>
@@ -1758,27 +1758,27 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>If &amp;quot;mixed mode&amp;quot; is enabled, I2P torrents are allowed to also get peers from other sources than the tracker, and connect to regular IPs, not providing any anonymization. This may be useful if the user is not interested in the anonymization of I2P, but still wants to be able to connect to I2P peers.</source>
-        <translation type="unfinished" />
+        <translation>Калі ўключаны «змяшаны рэжым», торэнтам I2P таксама дазволена атрымоўаць піроў з іншых крыніц акрамя трэкера і падлучацца да звычайных IP-адрасоў без забеспячэння ананімізацыі. Гэта можа быць карысна, калі карыстальнік не зацікаўлены ў ананімізацыі I2P, але хоча падлучыцца да піроў I2P.</translation>
     </message>
     <message>
         <source>I2P inbound quantity (requires libtorrent &amp;gt;= 2.0):</source>
-        <translation type="unfinished" />
+        <translation>Колькасць уваходных паведамленняў I2P (патрабуе libtorrent &amp;gt;= 2.0):</translation>
     </message>
     <message>
         <source>I2P (Experimental) (requires libtorrent &amp;gt;= 2.0)</source>
-        <translation type="unfinished" />
+        <translation>I2P (эксперыментальны) (патрабуе libtorrent &amp;gt;= 2.0)</translation>
     </message>
     <message>
         <source>I2P outbound quantity (requires libtorrent &amp;gt;= 2.0):</source>
-        <translation type="unfinished" />
+        <translation>Колькасць выходных паведамленняў I2P (патрабуе libtorrent &amp;gt;= 2.0):</translation>
     </message>
     <message>
         <source>I2P outbound length (requires libtorrent &amp;gt;= 2.0):</source>
-        <translation type="unfinished" />
+        <translation>Даўжыня выходных паведамленняў I2P (патрабуе libtorrent &amp;gt;= 2.0):</translation>
     </message>
     <message>
         <source>I2P inbound length (requires libtorrent &amp;gt;= 2.0):</source>
-        <translation type="unfinished" />
+        <translation>Даўжыня ўваходных паведамленьняў I2P (патрабуе libtorrent &amp;gt;= 2.0):</translation>
     </message>
 </context>
 <context>
@@ -2106,7 +2106,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Toggle Selection</source>
-        <translation type="unfinished" />
+        <translation>Пераключыць выбар</translation>
     </message>
     <message>
         <source>Replacement Input</source>
@@ -2126,11 +2126,11 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Include files</source>
-        <translation type="unfinished" />
+        <translation>Уключыць файлы</translation>
     </message>
     <message>
         <source>Include folders</source>
-        <translation type="unfinished" />
+        <translation>Уключыць папкі</translation>
     </message>
     <message>
         <source>Search Files</source>
@@ -2142,7 +2142,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Match all occurrences</source>
-        <translation type="unfinished" />
+        <translation>Супастаўляць усе ўваходжанні</translation>
     </message>
 </context>
 <context>
@@ -3168,7 +3168,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>showing</source>
-        <translation type="unfinished" />
+        <translation>паказваецца</translation>
     </message>
     <message>
         <source>Click the "Search plugins..." button at the bottom right of the window to install some.</source>
@@ -3883,7 +3883,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>showing</source>
-        <translation type="unfinished" />
+        <translation>паказваецца</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -3963,7 +3963,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>Banned</source>
-        <translation type="unfinished" />
+        <translation>Забароненае</translation>
     </message>
     <message>
         <source>Normal Messages</source>
@@ -3971,7 +3971,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     </message>
     <message>
         <source>Critical</source>
-        <translation type="unfinished" />
+        <translation>Важны</translation>
     </message>
     <message>
         <source>Critical Messages</source>

@@ -2895,7 +2895,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
+        <translation>העתקה</translation>
     </message>
     <message>
         <source>Queue</source>
@@ -3447,7 +3447,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     <name>SearchJobWidget</name>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
+        <translation>העתקה</translation>
     </message>
     <message>
         <source>Download</source>

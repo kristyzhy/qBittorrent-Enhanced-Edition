@@ -597,7 +597,7 @@
     </message>
     <message>
         <source>Filters Sidebar</source>
-        <translation type="unfinished" />
+        <translation>Filtrų šoninė juosta</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1430,7 +1430,7 @@
     </message>
     <message>
         <source>%K: Torrent ID</source>
-        <translation type="unfinished" />
+        <translation>%K: Torento ID</translation>
     </message>
     <message>
         <source>Reannounce to all trackers when IP or port changed:</source>
@@ -1576,7 +1576,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Run external program</source>
-        <translation type="unfinished" />
+        <translation>Paleisti išorinę programą</translation>
     </message>
     <message>
         <source>Files checked</source>
@@ -1596,7 +1596,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Torrent stop condition:</source>
-        <translation type="unfinished" />
+        <translation>Torento sustabdymo sąlyga:</translation>
     </message>
     <message>
         <source>None</source>
@@ -1744,7 +1744,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>.torrent file size limit:</source>
-        <translation type="unfinished" />
+        <translation>.torrent failo dydžio riba:</translation>
     </message>
     <message>
         <source>When total seeding time reaches</source>
@@ -2092,11 +2092,11 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished" />
+        <translation>Failo pavadinimas</translation>
     </message>
     <message>
         <source>Filename + Extension</source>
-        <translation type="unfinished" />
+        <translation>Failo pavadinimas + Prievardis</translation>
     </message>
     <message>
         <source>Enumerate Files</source>
@@ -2116,7 +2116,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished" />
+        <translation>Pakeisti</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -2124,23 +2124,23 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Replace All</source>
-        <translation type="unfinished" />
+        <translation>Pakeisti visus</translation>
     </message>
     <message>
         <source>Include files</source>
-        <translation type="unfinished" />
+        <translation>Įtraukti failus</translation>
     </message>
     <message>
         <source>Include folders</source>
-        <translation type="unfinished" />
+        <translation>Įtraukti aplankus</translation>
     </message>
     <message>
         <source>Search Files</source>
-        <translation type="unfinished" />
+        <translation>Ieškoti failų</translation>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation type="unfinished" />
+        <translation>Skirti raidžių dydį</translation>
     </message>
     <message>
         <source>Match all occurrences</source>
@@ -2356,11 +2356,11 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Checking (%1)</source>
-        <translation type="unfinished" />
+        <translation>Tikrinami (%1)</translation>
     </message>
     <message>
         <source>Checking (0)</source>
-        <translation type="unfinished" />
+        <translation>Tikrinami (0)</translation>
     </message>
 </context>
 <context>
@@ -2917,11 +2917,11 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Torrent ID</source>
-        <translation type="unfinished" />
+        <translation>Torento ID</translation>
     </message>
     <message>
         <source>Export .torrent</source>
-        <translation type="unfinished" />
+        <translation>Eksportuoti .torrent</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -2929,7 +2929,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Rename Files...</source>
-        <translation type="unfinished" />
+        <translation>Pervadinti failus...</translation>
     </message>
     <message>
         <source>Renaming</source>
@@ -3174,11 +3174,11 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Click the "Search plugins..." button at the bottom right of the window to install some.</source>
-        <translation type="unfinished" />
+        <translation>Norėdami juos įdiegti, spustelėkite lango apatinėje dešinėje mygtuką „Paieškos papildiniai...“.</translation>
     </message>
     <message>
         <source>There aren't any search plugins installed.</source>
-        <translation type="unfinished" />
+        <translation>Nėra įdiegta jokių paieškos papildinių.</translation>
     </message>
 </context>
 <context>
@@ -3423,11 +3423,11 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>qBittorrent Mascot</source>
-        <translation type="unfinished" />
+        <translation>qBittorrent talismanas</translation>
     </message>
     <message>
         <source>qBittorrent icon</source>
-        <translation type="unfinished" />
+        <translation>qBittorrent piktograma</translation>
     </message>
 </context>
 <context>
@@ -3897,7 +3897,7 @@ Palaiko formatus: S01E01, 1x1, 2017.12.31 ir 31.12.2017 (Datos formatai taip pat
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished" />
+        <translation>ID</translation>
     </message>
     <message>
         <source>Log Type</source>
@@ -3953,11 +3953,11 @@ Palaiko formatus: S01E01, 1x1, 2017.12.31 ir 31.12.2017 (Datos formatai taip pat
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished" />
+        <translation>Priežastis</translation>
     </message>
     <message>
         <source>item</source>
-        <translation type="unfinished" />
+        <translation>elementas</translation>
     </message>
     <message>
         <source>IP</source>
@@ -3985,7 +3985,7 @@ Palaiko formatus: S01E01, 1x1, 2017.12.31 ir 31.12.2017 (Datos formatai taip pat
     </message>
     <message>
         <source>items</source>
-        <translation type="unfinished" />
+        <translation>elementai</translation>
     </message>
     <message>
         <source>Results</source>
@@ -3993,7 +3993,7 @@ Palaiko formatus: S01E01, 1x1, 2017.12.31 ir 31.12.2017 (Datos formatai taip pat
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished" />
+        <translation>Informacija</translation>
     </message>
     <message>
         <source>Choose a log level...</source>

@@ -2330,27 +2330,27 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
     </message>
     <message>
         <source>Stalled Uploading (%1)</source>
-        <translation>Durdurulan Gönderme (%1)</translation>
+        <translation>Duran Gönderme (%1)</translation>
     </message>
     <message>
         <source>Stalled Downloading (%1)</source>
-        <translation>Durdurulan İndirme (%1)</translation>
+        <translation>Duran İndirme (%1)</translation>
     </message>
     <message>
         <source>Stalled Downloading (0)</source>
-        <translation>Durdurulan İndirme (0)</translation>
+        <translation>Duran İndirme (0)</translation>
     </message>
     <message>
         <source>Stalled (0)</source>
-        <translation>Durduruldu (0)</translation>
+        <translation>Durdu (0)</translation>
     </message>
     <message>
         <source>Stalled Uploading (0)</source>
-        <translation>Durdurulan Gönderme (0)</translation>
+        <translation>Duran Gönderme (0)</translation>
     </message>
     <message>
         <source>Stalled (%1)</source>
-        <translation>Durduruldu (%1)</translation>
+        <translation>Durdu (%1)</translation>
     </message>
     <message>
         <source>Checking (%1)</source>
@@ -2704,7 +2704,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
     </message>
     <message>
         <source>Stalled</source>
-        <translation>Durduruldu</translation>
+        <translation>Durdu</translation>
     </message>
     <message>
         <source>%1 (seeded for %2)</source>

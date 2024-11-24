@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>Pause torrents</source>
-        <translation>Zastavit torrenty</translation>
+        <translation>Pozastavit torrenty</translation>
     </message>
     <message>
         <source>New Category</source>
@@ -456,11 +456,11 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation>Zastavit</translation>
+        <translation>Pozastavit</translation>
     </message>
     <message>
         <source>Pause All</source>
-        <translation>Zastavit vše</translation>
+        <translation>Pozastavit vše</translation>
     </message>
     <message>
         <source>Add Torrent File...</source>
@@ -1190,7 +1190,7 @@
     </message>
     <message>
         <source>Pause torrent</source>
-        <translation>Zastavit torrent</translation>
+        <translation>Pozastavit torrent</translation>
     </message>
     <message>
         <source>Remove torrent and its files</source>
@@ -1758,11 +1758,11 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>If &amp;quot;mixed mode&amp;quot; is enabled, I2P torrents are allowed to also get peers from other sources than the tracker, and connect to regular IPs, not providing any anonymization. This may be useful if the user is not interested in the anonymization of I2P, but still wants to be able to connect to I2P peers.</source>
-        <translation>Pokud je zapnut &amp;quot;smíšený režim&amp;quot;, tak je I2P torrentům povoleno získávat peery také z jiných zdrojů, než je tracker. Mohou se také připojovat k běžným IP adresám, což neposkytuje žádnou anonymizaci. Toto může být užitečné, pokud uživatel nemá zájem o anonymizaci I2P, ale stále chce mít možnost připojit se k I2P peerům.</translation>
+        <translation>Pokud je zapnut &amp;quot;smíšený režim&amp;quot;, je I2P torrentům povoleno získávat peery také z jiných zdrojů, než je tracker. Mohou se také připojovat k běžným IP adresám, což neposkytuje žádnou anonymizaci. Toto může být užitečné, pokud uživatel nemá zájem o anonymizaci I2P, ale stále chce mít možnost připojit se k I2P peerům.</translation>
     </message>
     <message>
         <source>I2P inbound quantity (requires libtorrent &amp;gt;= 2.0):</source>
-        <translation>I2P příchozí kvalita (vyžaduje libtorrent &amp;gt;= 2.0):</translation>
+        <translation>I2P příchozí množství (vyžaduje libtorrent &amp;gt;= 2.0):</translation>
     </message>
     <message>
         <source>I2P (Experimental) (requires libtorrent &amp;gt;= 2.0)</source>
@@ -1770,7 +1770,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>I2P outbound quantity (requires libtorrent &amp;gt;= 2.0):</source>
-        <translation>I2P odchozí kvalita (vyžaduje libtorrent &amp;gt;= 2.0):</translation>
+        <translation>I2P příchozí množství (vyžaduje libtorrent &amp;gt;= 2.0):</translation>
     </message>
     <message>
         <source>I2P outbound length (requires libtorrent &amp;gt;= 2.0):</source>
@@ -2278,7 +2278,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Paused (0)</source>
-        <translation>Zastaveno (0)</translation>
+        <translation>Pozastaveno (0)</translation>
     </message>
     <message>
         <source>Active (0)</source>
@@ -2310,7 +2310,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Paused (%1)</source>
-        <translation>Zastaveno (%1)</translation>
+        <translation>Pozastaveno (%1)</translation>
     </message>
     <message>
         <source>Resumed (%1)</source>
@@ -2648,7 +2648,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Paused</source>
-        <translation>Zastaveno</translation>
+        <translation>Pozastaveno</translation>
     </message>
     <message>
         <source>Completed</source>
@@ -2765,7 +2765,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     <message>
         <source>Pause</source>
         <comment>Pause the torrent</comment>
-        <translation>Zastavit</translation>
+        <translation>Pozastavit</translation>
     </message>
     <message>
         <source>Limit share ratio...</source>
@@ -3085,7 +3085,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>URL or local directory</source>
-        <translation>URL nebo místní složka</translation>
+        <translation>URL nebo místní adresář</translation>
     </message>
     <message>
         <source>Install plugin</source>
@@ -3307,7 +3307,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Pause torrents</source>
-        <translation>Zastavení torrentů</translation>
+        <translation>Pozastavit torrenty</translation>
     </message>
     <message>
         <source>Resume torrents</source>
@@ -3768,7 +3768,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Add Paused:</source>
-        <translation>Přidat zastavený:</translation>
+        <translation>Přidat pozastavený:</translation>
     </message>
     <message>
         <source>Please type the name of the new download rule.</source>
@@ -3845,7 +3845,7 @@ Podporuje formáty: S01E01, 1x1, 2017.12.31 a 31.12.2017 (Formáty dat také pod
     </message>
     <message>
         <source>Pause torrents</source>
-        <translation>Zastavit torrenty</translation>
+        <translation>Pozastavit torrenty</translation>
     </message>
     <message>
         <source>Remove torrents</source>

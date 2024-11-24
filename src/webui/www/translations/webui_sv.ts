@@ -1982,7 +1982,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
     </message>
     <message>
         <source>Reannounce In:</source>
-        <translation>Annonseras igen:</translation>
+        <translation>Omannonseras:</translation>
     </message>
     <message>
         <source>Last Seen Complete:</source>
